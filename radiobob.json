@@ -1,0 +1,60 @@
+{
+	"result": [{
+		"prefix": "classicrock",
+		"title": "Classic Rock",
+		"icon": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/classic_rock.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/classic_rock.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer",
+		"schedule": "https://www.radiobob.de/radiobob/empfang/livestream"
+	}, {
+		"prefix": "alternativerock",
+		"title": "Alternative Rock",
+		"icon": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/alternative_rock.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/alternative_rock.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-alternative/mp3-192/mediaplayer"
+	}, {
+		"prefix": "acdc",
+		"title": "ACDC",
+		"icon": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/acdc.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/acdc.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-acdc/mp3-192/mediaplayer"
+	}, {
+		"prefix": "deutschrock",
+		"title": "Deutschrock",
+		"icon": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/deutschrock.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/deutschrock.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer"
+	}, {
+		"prefix": "metal",
+		"title": "Metal",
+		"icon": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/metal.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob/main/web/metal.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer"
+	}, {
+		"prefix": "hardrock",
+		"title": "Hardrock",
+		"icon": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob.matrix/main/web/hardrock.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob.matrix/main/web/hardrock.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-ironworkout/mp3-192/mediaplayer"
+	}, {
+		"prefix": "punk",
+		"title": "Punk",
+		"icon": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob.matrix/main/web/punk.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob.matrix/main/web/punk.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/bob-punk/mp3-192/mediaplayer"
+	}, {
+		"prefix": "mittelalter",
+		"title": "Mittelalter",
+		"icon": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob.matrix/main/web/mittelalter.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/plugin.audio.bob.matrix/main/web/mittelalter.png",
+		"new": false,
+		"stream_320": "http://streams.radiobob.de/mittelalter/mp3-192/mediaplayer"
+	}]
+}
