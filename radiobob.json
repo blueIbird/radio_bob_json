@@ -128,9 +128,16 @@
 		"stream_320": "http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer"
 	}, {
 		"prefix": "about",
-		"title": "--Updated: 2021/03/27",
-		"icon": "",
-		"icon_png": "",
+		"title": "-SStream database:2021/03/27",
+		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/about.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/about.png",
+		"new": false,
+		"stream_320": "http://streams"
+	}, {
+		"prefix": "about2",
+		"title": "-------------------------------",
+		"icon": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/about.png",
+		"icon_png": "https://raw.githubusercontent.com/blueIbird/radio.bob.json/main/pictures/about.png",
 		"new": false,
 		"stream_320": "http://streams"
 	}]
